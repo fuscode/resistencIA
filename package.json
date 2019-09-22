@@ -1,0 +1,24 @@
+{
+  "name": "resistencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extrai_previsao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuscoding/resistencIA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuscoding/resistencIA/issues"
+  },
+  "homepage": "https://github.com/fuscoding/resistencIA#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "fast-csv": "^3.4.0",
+    "node-fetch": "^2.6.0"
+  }
+}

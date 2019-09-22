@@ -1,0 +1,5 @@
+node_modules/
+dados_prev_15dias/
+dados_historico_Temp/
+dados_historico_Wind/
+sendgrid.env
