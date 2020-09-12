@@ -19,6 +19,6 @@
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
     "fast-csv": "^3.4.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
